@@ -16,5 +16,5 @@ def factorial(num1):
 
 if btn:
 
-  y= factorial(num1)
-st.header(f'Factorial of {num1} is {y}')
+  y = factorial(num1)
+  st.header(f'Factorial of {num1} is {y}')
